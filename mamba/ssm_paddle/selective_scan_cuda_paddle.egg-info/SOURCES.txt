@@ -1,0 +1,17 @@
+AUTHORS
+LICENSE
+README.md
+setup.py
+setup_selective_scan.py
+csrc/selective_scan/selective_scan.cpp
+csrc/selective_scan/selective_scan_bwd_bf16_real.cu
+csrc/selective_scan/selective_scan_bwd_fp16_real.cu
+csrc/selective_scan/selective_scan_bwd_fp32_real.cu
+csrc/selective_scan/selective_scan_fwd_bf16_real.cu
+csrc/selective_scan/selective_scan_fwd_fp16_real.cu
+csrc/selective_scan/selective_scan_fwd_fp32_real.cu
+selective_scan_cuda_paddle.egg-info/PKG-INFO
+selective_scan_cuda_paddle.egg-info/SOURCES.txt
+selective_scan_cuda_paddle.egg-info/dependency_links.txt
+selective_scan_cuda_paddle.egg-info/not-zip-safe
+selective_scan_cuda_paddle.egg-info/top_level.txt

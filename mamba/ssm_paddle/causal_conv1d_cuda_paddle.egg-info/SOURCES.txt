@@ -1,0 +1,14 @@
+AUTHORS
+LICENSE
+README.md
+setup.py
+setup_causal_conv1d.py
+causal_conv1d_cuda_paddle.egg-info/PKG-INFO
+causal_conv1d_cuda_paddle.egg-info/SOURCES.txt
+causal_conv1d_cuda_paddle.egg-info/dependency_links.txt
+causal_conv1d_cuda_paddle.egg-info/not-zip-safe
+causal_conv1d_cuda_paddle.egg-info/top_level.txt
+csrc/causal_conv1d/causal_conv1d.cpp
+csrc/causal_conv1d/causal_conv1d_bwd.cu
+csrc/causal_conv1d/causal_conv1d_fwd.cu
+csrc/causal_conv1d/causal_conv1d_update.cu
